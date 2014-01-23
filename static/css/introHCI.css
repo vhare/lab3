@@ -20,6 +20,9 @@ body {
 	position: relative;
 	background: none;
 }
+.jumbotron p.active {
+     color: #1f6ddd;
+}
 
 .jumbotron:after {
      content:"";
